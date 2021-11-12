@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surjdeo
 - 👀 I’m interested in Mechanical mechanisms, controls, optimisation, and robotics.
 - 🌱 I’m currently learning C# and python
-- 💞️ I’m looking to collaborate on soft robotic controls, mechanism sysnthesis.
+- 💞️ I’m looking to collaborate on soft robotic controls, mechanism motion sysnthesis, mechatronic product design.
 - 📫 You can reach me on surjdeoonline9@gmail.com
 
 <!---
